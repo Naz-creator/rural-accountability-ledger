@@ -1,7 +1,7 @@
 # Rural Accountability Ledger (RAL) 🥛⛓️
 
 **Open-source blockchain accountability platform for off-grid rural cooperatives.**  
-*Currently deployed as a pilot at SPK ASIANAM, Kyzylsai, Kazakhstan.*
+*Currently deployed as a pilot at SPK ASIANAM, Kazakhstan.*
 
 ## 📌 Overview
 RAL is a lightweight, offline-first ERP system built on **ERPNext** with a **Polygon blockchain** audit layer. It is designed specifically for small-scale dairy cooperatives (Saumal/Mare's milk) operating in remote areas with unstable internet.
@@ -18,8 +18,8 @@ RAL is a lightweight, offline-first ERP system built on **ERPNext** with a **Pol
 - **Connectivity:** Starlink-ready + Offline sync protocols
 - **Hardware:** IoT-enabled scales (planned)
 
-## 🌍 UNICEF Venture Fund Pilot
-This project is part of a grant application for the UNICEF Venture Fund. Our goal is to scale this solution to 100+ rural cooperatives across Central Asia, providing financial inclusion and transparent supply chains for traditional nomadic products.
+## 🌍 Pilot project
+Our goal is to scale this solution to 100+ rural cooperatives across Central Asia, providing financial inclusion and transparent supply chains for traditional nomadic products.
 
 ## 📄 License
 This project is licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for details.
